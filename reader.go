@@ -705,7 +705,7 @@ func (this *PdfReader) resolveObject(objSpec *PdfValue) (*PdfValue, error) {
 			if err != nil {
 				return nil, errors.Wrap(err, "Failed to read token")
 			}
-			if token != "endstream" {
+			if token != "endstream" && token != "ndstream" {
 				return nil, errors.New("Expected next token to be: endstream, got: " + token)
 			}
 
