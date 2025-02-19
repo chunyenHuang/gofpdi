@@ -1,8 +1,8 @@
 # gofpdi
 [![MIT
 licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/phpdave11/gofpdi/master/LICENSE)
-[![Report](https://goreportcard.com/badge/github.com/phpdave11/gofpdi)](https://goreportcard.com/report/github.com/phpdave11/gofpdi)
-[![GoDoc](https://img.shields.io/badge/godoc-gofpdi-blue.svg)](https://godoc.org/github.com/phpdave11/gofpdi)
+[![Report](https://goreportcard.com/badge/github.com/chunyenHuang/gofpdi)](https://goreportcard.com/report/github.com/chunyenHuang/gofpdi)
+[![GoDoc](https://img.shields.io/badge/godoc-gofpdi-blue.svg)](https://godoc.org/github.com/chunyenHuang/gofpdi)
 
 ## Go Free PDF Document Importer
 
@@ -239,7 +239,7 @@ func main() {
 
 Generated PDF:
 
-[example.pdf](https://github.com/phpdave11/gofpdi/files/3483219/example.pdf)
+[example.pdf](https://github.com/chunyenHuang/gofpdi/files/3483219/example.pdf)
 
 Screenshot of PDF:
 
